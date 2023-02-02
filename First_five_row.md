@@ -3,9 +3,12 @@
 
 
 Instructions- 
-Your dataframe is stored in variable **df**.
 
-Sample data
+Dataframe is stored in variable **df**.
 
-<img width="618" alt="image" src="https://user-images.githubusercontent.com/118887002/216410748-46e2e472-f7f1-442c-9469-c923ad46e6da.png">
+Perform all operations inside the function and assign final output in the the **solution** function appended variable name.
+
+Sample data - 
+
+<img width="618" alt="image" src="https://user-images.githubusercontent.com/118887002/216410997-88b7b72b-7365-49a1-a8ec-a6596f77a38f.png">
 
