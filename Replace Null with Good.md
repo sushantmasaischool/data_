@@ -3,6 +3,7 @@
 
 Instructions- 
 Dataframe is stored in variable **df**.
+
 Perform all operations inside the function and assign final output in the the solution function appended variable name.
 
 Sample data - 
