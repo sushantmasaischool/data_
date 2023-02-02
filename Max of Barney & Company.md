@@ -1,4 +1,4 @@
-**Find the max amount of *"Barney & Company".**
+**Find the max amount of** ***"Barney & Company".***
 
 
 
